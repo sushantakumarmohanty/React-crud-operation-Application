@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Apple10",
+      "price": 120000,
+      "id": 1
+    },
+    {
+      "name": "Samsung S20",
+      "price": 100000,
+      "id": 2
+    },
+    {
+      "name": "Mi",
+      "price": "25034",
+      "id": 4
+    },
+    {
+      "name": "POCO X3",
+      "price": 18000,
+      "id": 5
+    },
+    {
+      "name": "hidiing",
+      "price": 2,
+      "id": 6
+    }
+  ]
+}
